@@ -10,5 +10,5 @@ Changes in this version:
 [Original version from the developer](https://github.com/mikeoverbay/XML_Editor)
 
 
-An example of the work that can be done, you can see on YouTube
+An example of the work that can be done, you can see on YouTube:
 [![Everything Is AWESOME](https://github.com/e-gaydarzhi-2077/WOT_XML_Editor/blob/main/TankLogo.jpg?raw=true)](https://youtu.be/Rzscy6Luf38 )
