@@ -8,3 +8,7 @@ Changes in this version:
 ![2022-10-31 11_12_48-](https://user-images.githubusercontent.com/107859162/198974052-c2176053-602a-46ec-a475-4c776d20eff0.png)
 
 [Original version from the developer](https://github.com/mikeoverbay/XML_Editor)
+
+
+An example of work that can be done:
+https://youtu.be/Rzscy6Luf38
