@@ -12,4 +12,4 @@ Changes in this version:
 
 An example of work that can be done:
 
-[![](https://markdown-videos.deta/youtube/{Rzscy6Luf38&t})](https://youtu.be/{Rzscy6Luf38&t})
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
