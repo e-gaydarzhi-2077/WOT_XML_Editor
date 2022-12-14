@@ -12,4 +12,4 @@ Changes in this version:
 
 An example of work that can be done:
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://github.com/e-gaydarzhi-2077/WOT_XML_Editor/blob/main/TankLogo.jpg?raw=true)](https://youtu.be/Rzscy6Luf38 "Everything Is AWESOME")
