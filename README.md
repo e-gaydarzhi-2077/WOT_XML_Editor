@@ -12,4 +12,4 @@ Changes in this version:
 
 An example of work that can be done:
 
-[![](https://markdown-videos.deta/youtube/{Rzscy6Luf38})](https://youtu.be/{Rzscy6Luf38})
+[![](https://markdown-videos.deta/youtube/{Rzscy6Luf38&t})](https://youtu.be/{Rzscy6Luf38&t})
